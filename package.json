@@ -1,0 +1,23 @@
+{
+  "name": "zzzplayer",
+  "version": "0.0.1",
+  "description": "Media player for the lazy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReaLCodeBreaker/ZZZPlayer.git"
+  },
+  "keywords": [
+    "Mediaplayer",
+    "electron"
+  ],
+  "author": "ReaL",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ReaLCodeBreaker/ZZZPlayer/issues"
+  },
+  "homepage": "https://github.com/ReaLCodeBreaker/ZZZPlayer#readme"
+}
